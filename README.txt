@@ -1,10 +1,4 @@
 VERTASCAN Concepts | ARTIC SNOWFLY
-
-Open the published application for direct use on desktop or mobile.
-For self-hosting, upload this folder to a static HTTP/HTTPS host.
-For local use, run: python -m http.server 8080
-Then open http://localhost:8080 on that same computer.
-Opening index.html directly from a file manager is not supported by browser module security.
 All dependencies and the original FBX are bundled; no CDN is required.
 
 CONTROLS
